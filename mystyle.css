@@ -1,0 +1,9 @@
+.style {
+    background-color:lightgrey;
+    border-style:double;
+    border-color:lightblue;
+    border-width:2px;
+}
+.box {
+    background-color:lightyellow;
+}
